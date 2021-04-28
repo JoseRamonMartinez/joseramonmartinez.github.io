@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name":"José Ramón Martínez Riveiro",
+    "description":"I am a Software Engineer with a Computer Science Degree. At this time, I am studing an University Master in Computer Science",
+    "image":"profilepic.jpg",
+    "bio":"I am very passionated about new technologies and goods software engineering practices. I am focus on Web and Mobile development. Currently, I could define myself as a Full-stack Developer. I also love agile methodologies, currently having the Professional Scrum Master I certification. Finally, I’m interested in DevOps culture, with knowledge of VC, CI, CD and Testing.",
+    "contactmessage":"Get in touch",
+    "email": "Josera.Martinez@hotmail.com",
+    "phone": "Albacete, Spain",
+    "github":"https://github.com/JoseRamonMartinez/",
+    "project":"https://www.linkedin.com/in/joseramonmartinezriveiro",
+    "address":{
+      "street":"22 years old",
+      "city":"",
+      "state":"",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"",
+        "url":"",
+        "className":""
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/joseramonmartinezriveiro",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/josera1998/",
+        "className":"fa fa-instagram"
+      }
+     
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Universidad de Castilla-La Mancha",
+        "degree":"University Master in Computer Science ",
+        "graduated":"2020 - Present",
+        "description":""
+      },
+      {
+        "school":"Universidad de Castilla-La Mancha",
+        "degree":"Computer Science Degree",
+        "graduated":"2016 - 2020",
+        "description":"English mode and specialized  in Software Engineering. Final project mark: 10"
+      }
+    ],
+    "work":[
+      {
+        "company":"Grupo Vermon SL",
+        "title":"Internship contract",
+        "years":"Feb. de 2020 - Jun. de 2020",
+        "description":"Web developer with Angular 8 y 9"
+      }
+
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"85%"
+      },
+      {
+        "name":"Angular",
+        "level":"70%"
+      },
+      {
+        "name":"Ionic",
+        "level":"65%"
+      },
+      {
+        "name":"Scrum",
+        "level":"95%"
+      },
+      {
+      "name":"DevOps",
+      "level":"30%"
+    },
+      {
+        "name":"NodeJS",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"70%"
+      },
+      {
+        "name":"MySQL",
+        "level":"65%"
+      },
+      {
+        "name":"JAVA",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"30%"
+      }
+      
+
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"PictoTrainer",
+        "category":"Web app for children with ASDs - Third place in Hack4Albacity 2020",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://github.com/JoseRamonMartinez/PictoTrainer"
+      },
+      {
+        "title":"MAIA",
+        "category":"Web/Mobiles applications that conforms a system focused into improve the life of breast cancer patients",
+        "image":"fury-fighting-gear.jpg",
+        "url":""
+      },
+      {
+        "title":"Forklift simulator",
+        "category":"Unity VR Forklift Simulator",
+        "image":"original-thai-food.jpg",
+        "url":"https://github.com/JoseRamonMartinez/Unity_VR_ForkLift_Simulator"
+      },
+      {
+        "title":"Profesional Scrum Master I",
+        "category":"Certificate of profesional Scrum Master I (PSM I) by Scrum.org",
+        "image":"resume-website.jpg",
+        "url":"https://www.scrum.org/user/749210"
+      }
+      
+    ]
+  }
+}
