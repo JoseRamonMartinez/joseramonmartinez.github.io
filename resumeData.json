@@ -1,16 +1,16 @@
 {
   "main": {
     "name":"José Ramón Martínez Riveiro",
-    "description":"I am a Software Engineer with a Computer Science Degree. At this time, I am studing an University Master in Computer Science",
+    "description":"Master in Computer Science specialized in Software Engineering.",
     "image":"profilepic.jpg",
-    "bio":"I am very passionated about new technologies and goods software engineering practices. I am focus on Web and Mobile development. Currently, I could define myself as a Full-stack Developer. I also love agile methodologies, currently having the Professional Scrum Master I certification. Finally, I’m interested in DevOps culture, with knowledge of VC, CI, CD and Testing.",
+    "bio":"My fields of interest are software architecture and web/mobile development, focused on . My professional goal is to improve my skills through continuous learning, keeping up to date with new technologies and best practices.",
     "contactmessage":"Get in touch",
     "email": "Josera.Martinez@hotmail.com",
     "phone": "Albacete, Spain",
     "github":"https://github.com/JoseRamonMartinez/",
     "project":"https://www.linkedin.com/in/joseramonmartinezriveiro",
     "address":{
-      "street":"22 years old",
+      "street":"23 years old",
       "city":"",
       "state":"",
       "zip": ""
@@ -45,24 +45,30 @@
     "skillmessage":"",
     "education":[
       {
-        "school":"Universidad de Castilla-La Mancha",
-        "degree":"University Master in Computer Science ",
-        "graduated":"2020 - Present",
-        "description":""
+        "school":"University Master in Computer Science",
+        "degree":"University of Castilla-La Mancha",
+        "graduated":"2020 - 2021",
+        "description":"Final Master’s Degree Project mark: 10"
       },
       {
-        "school":"Universidad de Castilla-La Mancha",
-        "degree":"Computer Science Degree",
+        "school":"University Degree in Computer Science",
+        "degree":"University of Castilla-La Mancha",
         "graduated":"2016 - 2020",
-        "description":"English mode and specialized  in Software Engineering. Final project mark: 10"
+        "description":"English Bilingual. Software Engineering Mention. Final Degree Project mark: 10 (with honors)"
       }
     ],
     "work":[
       {
+        "company":"University of Castilla-La Mancha",
+        "title":"Research Fellow | Software Engineering",
+        "years":"Feb. 2021 - Aug. 2021",
+        "description":"Designed and implemented a content manager web app for the European project LanGuide. Designed and implemented a software system (two hybrid mobile applications and a serverless cloud backend) to improve the quality of life of breast cancer patients."
+      },
+      {
         "company":"Grupo Vermon SL",
-        "title":"Internship contract",
-        "years":"Feb. de 2020 - Jun. de 2020",
-        "description":"Web developer with Angular 8 y 9"
+        "title":"Software Engineering Intern",
+        "years":"Feb. 2020 - Jun. 2020",
+        "description":"Implemented a web app for monitoring based on domestic sensors. Technologies: Angular 9, Amazon Cognito, Git."
       }
 
     ],
@@ -70,6 +76,26 @@
       {
         "name":"JavaScript",
         "level":"85%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"70%"
+      },
+      {
+        "name":"TypeScript",
+        "level":"65%"
+      },
+      {
+        "name":"Java",
+        "level":"95%"
+      },
+      {
+      "name":"AWS",
+      "level":"30%"
+    },
+      {
+        "name":"Serverless Framework",
+        "level":"80%"
       },
       {
         "name":"Angular",
@@ -80,31 +106,19 @@
         "level":"65%"
       },
       {
-        "name":"Scrum",
-        "level":"95%"
-      },
-      {
-      "name":"DevOps",
-      "level":"30%"
-    },
-      {
         "name":"NodeJS",
-        "level":"80%"
-      },
-      {
-        "name":"MongoDB",
         "level":"70%"
       },
       {
-        "name":"MySQL",
-        "level":"65%"
+        "name":"Git",
+        "level":"30%"
       },
       {
-        "name":"JAVA",
-        "level":"70%"
+        "name":"GitHub Actions",
+        "level":"30%"
       },
       {
-        "name":"Python",
+        "name":"Jira",
         "level":"30%"
       }
       
@@ -114,27 +128,58 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Trending Topic",
+        "category":"Alexa skill to consult the twitter trending topic for any country and the popular tweets about a topic.",
+        "image":"tt.jpg",
+        "url":"https://github.com/JoseRamonMartinez/alexa-skill-trending-topic"
+      },
+      {
         "title":"PictoTrainer",
         "category":"Web app for children with ASDs - Third place in Hack4Albacity 2020",
-        "image":"canadian-wanderlust.jpg",
+        "image":"pictotrainer.jpg",
         "url":"https://github.com/JoseRamonMartinez/PictoTrainer"
+      },
+      {
+        "title":"PuerTICas",
+        "category":"Access control application to a smart building using facial recognition authorization. Cloud architecture based on AWS services under the IaaC paradigm",
+        "image":"puerticas.jpg",
+        "url":""
       },
       {
         "title":"MAIA",
         "category":"Web/Mobiles applications that conforms a system focused into improve the life of breast cancer patients",
-        "image":"fury-fighting-gear.jpg",
+        "image":"maia.jpg",
         "url":""
       },
       {
+        "title":"LanGuide",
+        "category":"European project - Language Guidance Tool for Improving Language Knowledge",
+        "image":"languide.jpg",
+        "url":"https://languide.si/en/the-languide-app"
+      },
+
+      {
         "title":"Forklift simulator",
         "category":"Unity VR Forklift Simulator",
-        "image":"original-thai-food.jpg",
+        "image":"forklift.jpg",
         "url":"https://github.com/JoseRamonMartinez/Unity_VR_ForkLift_Simulator"
+      },
+      {
+        "title":"VR DualPoint World Manipulation",
+        "category":"Implement the interaction 'Dual Point World Manipulation' in an Unreal VR application",
+        "image":"dp_vr.jpg",
+        "url":"https://github.com/JoseRamonMartinez/VR_DualPoint_World_Manipulation"
+      },
+      {
+        "title":"Zombie Graveyard",
+        "category":"Cardboard game with Unreal VR",
+        "image":"zombie.jpg",
+        "url":"https://github.com/JoseRamonMartinez/VR_DualPoint_World_Manipulation"
       },
       {
         "title":"Profesional Scrum Master I",
         "category":"Certificate of profesional Scrum Master I (PSM I) by Scrum.org",
-        "image":"resume-website.jpg",
+        "image":"psm1.jpg",
         "url":"https://www.scrum.org/user/749210"
       }
       
