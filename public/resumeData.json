@@ -1,0 +1,214 @@
+{
+  "main": {
+    "name":"José Ramón Martínez Riveiro",
+    "description":"Software Engineer. Bachelor and Master Degree in Computer Science",
+    "image":"profilepic.jpg",
+    "bio":"Interested in cloud computing, software architecture and web/mobile development. My goals are to improve my skills through continuous learning, keeping up to date with new technologies and best software development practices.",
+    "contactmessage":"Get in touch",
+    "email": "Josera.Martinez@hotmail.com",
+    "phone": "Albacete, Spain",
+    "github":"https://github.com/JoseRamonMartinez/",
+    "project":"https://www.linkedin.com/in/joseramonmartinezriveiro",
+    "address":{
+      "street":"23 years old",
+      "city":"",
+      "state":"",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"",
+        "url":"",
+        "className":""
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/JoseRamonMartinez",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/joseramonmartinezriveiro",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/josera1998/",
+        "className":"fa fa-instagram"
+      }
+     
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University Master in Computer Science",
+        "degree":"University of Castilla-La Mancha",
+        "graduated":"2020 - 2021",
+        "description":"Final Master’s Degree Project mark: 10"
+      },
+      {
+        "school":"University Degree in Computer Science",
+        "degree":"University of Castilla-La Mancha",
+        "graduated":"2016 - 2020",
+        "description":"English Bilingual. Software Engineering Mention. Final Bachelor Degree Project mark: 10 (with honors)"
+      }
+    ],
+    "work":[
+      {
+        "company":"University of Castilla-La Mancha",
+        "title":"Substitute teacher",
+        "years":"Sep. 2021 - Act.",
+        "description":"Substitute teacher in the subject Quality of Software Systems (Calidad de Sistemas Software) of the University Degree in Computer Science (UCLM)"
+      },
+      {
+        "company":"I3A | University of Castilla-La Mancha",
+        "title":"Researcher/Research support staff",
+        "years":"Sep. 2021 - Act.",
+        "description":"Interactive System Engineering Research Group"
+      },
+      {
+        "company":"I3A | University of Castilla-La Mancha",
+        "title":"Research Fellow | Software Engineering",
+        "years":"Feb. 2021 - Aug. 2021",
+        "description":"Designed and implemented a content manager web app for the European project LanGuide. Designed and implemented a software system (two hybrid mobile applications and a serverless cloud backend) to improve the quality of life of breast cancer patients."
+      },
+      {
+        "company":"Grupo Vermon SL",
+        "title":"Software Engineering Intern",
+        "years":"Feb. 2020 - Jun. 2020",
+        "description":"Implemented a web app for monitoring based on domestic sensors. Technologies: Angular 9, Amazon Cognito, Git."
+      }
+
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"85%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"70%"
+      },
+      {
+        "name":"TypeScript",
+        "level":"65%"
+      },
+      {
+        "name":"Java",
+        "level":"95%"
+      },
+      {
+      "name":"AWS",
+      "level":"30%"
+    },
+      {
+        "name":"Serverless Framework",
+        "level":"80%"
+      },
+      {
+        "name":"Angular",
+        "level":"70%"
+      },
+      {
+        "name":"Ionic",
+        "level":"65%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"70%"
+      },
+      {
+        "name":"Git",
+        "level":"30%"
+      },
+      {
+        "name":"GitHub Actions",
+        "level":"30%"
+      },
+      {
+        "name":"Jira",
+        "level":"30%"
+      }
+      
+
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Campollano Prize ",
+        "category":"Award obtained by Campollano Fundation for the most innovate final bachelor degree project",
+        "image":"campollano.jpg",
+        "url":"https://www.latribunadealbacete.es/Noticia/ZF748FE6E-BD13-233C-E15AEA3AA6956A1E/202111/Premian-a-estudiantes-de-Ingenieria-Informatica"
+      },
+      {
+        "title":"3rd Prize in HackForAlbacity 2020",
+        "category":"Award obtained for the development of technological solutions for people with functional diversity in collaboration with CRMF-IMSERSO.",
+        "image":"h4a.jpg",
+        "url":"https://pctclm.com/entrega-de-premios-de-la-tercera-edicion-del-concurso-hack-for-albacity/"
+      },
+      {
+        "title":"Profesional Scrum Master I",
+        "category":"Certificate of profesional Scrum Master I (PSM I) by Scrum.org",
+        "image":"psm1.jpg",
+        "url":"https://www.scrum.org/user/749210"
+      },
+      {
+        "title":"MAIA",
+        "category":"Web/Mobiles applications that conforms a system focused into improve the life of breast cancer patients",
+        "image":"maia.jpg",
+        "url":""
+      },
+      {
+        "title":"Trending Topic",
+        "category":"Alexa skill to consult the twitter trending topic for any country and the popular tweets about a topic.",
+        "image":"tt.jpg",
+        "url":"https://github.com/JoseRamonMartinez/alexa-skill-trending-topic"
+      },
+      {
+        "title":"PictoTrainer",
+        "category":"Web app for children with ASDs - Third place in Hack4Albacity 2020",
+        "image":"pictotrainer.jpg",
+        "url":"https://github.com/JoseRamonMartinez/PictoTrainer"
+      },
+      {
+        "title":"PuerTICas",
+        "category":"Access control application to a smart building using facial recognition authorization. Cloud architecture based on AWS services under the IaaC paradigm",
+        "image":"puerticas.jpg",
+        "url":""
+      },
+
+      {
+        "title":"LanGuide",
+        "category":"European project - Language Guidance Tool for Improving Language Knowledge",
+        "image":"languide.jpg",
+        "url":"https://languide.si/en/the-languide-app"
+      },
+
+
+      {
+        "title":"VR DualPoint World Manipulation",
+        "category":"Implement the interaction 'Dual Point World Manipulation' in an Unreal VR application",
+        "image":"dp_vr.jpg",
+        "url":"https://github.com/JoseRamonMartinez/VR_DualPoint_World_Manipulation"
+      },
+      {
+        "title":"Forklift simulator",
+        "category":"Unity VR Forklift Simulator",
+        "image":"forklift.jpg",
+        "url":"https://github.com/JoseRamonMartinez/Unity_VR_ForkLift_Simulator"
+      },
+      {
+        "title":"Zombie Graveyard",
+        "category":"Cardboard game with Unreal VR",
+        "image":"zombie.jpg",
+        "url":"https://github.com/JoseRamonMartinez/VR_DualPoint_World_Manipulation"
+      }
+      
+    ]
+  }
+}
