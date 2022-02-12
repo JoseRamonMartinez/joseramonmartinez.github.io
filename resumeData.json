@@ -8,9 +8,10 @@
     "email": "Josera.Martinez@hotmail.com",
     "phone": "Albacete, Spain",
     "github":"https://github.com/JoseRamonMartinez/",
-    "project":"https://www.linkedin.com/in/joseramonmartinezriveiro",
+    "linkedin":"https://www.linkedin.com/in/joseramonmartinezriveiro",
+    "stackoverflow":"https://stackoverflow.com/users/14985536/jose-ramon-martinez-riveiro",
     "address":{
-      "street":"23 years old",
+      "street":"josera.martinez@hotmail.com",
       "city":"",
       "state":"",
       "zip": ""
@@ -34,9 +35,9 @@
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"https://www.instagram.com/josera1998/",
-        "className":"fa fa-instagram"
+        "name":"stackoverflow",
+        "url":"https://stackoverflow.com/",
+        "className":"fa fa-stack-overflow"
       }
      
     ]
@@ -44,6 +45,12 @@
   "resume":{
     "skillmessage":"",
     "education":[
+      {
+        "school":"PhD in Advanced Information Technology",
+        "degree":"University of Castilla-La Mancha",
+        "graduated":"2020 - Act",
+        "description":""
+      },
       {
         "school":"University Master in Computer Science",
         "degree":"University of Castilla-La Mancha",
@@ -57,17 +64,22 @@
         "description":"English Bilingual. Software Engineering Mention. Final Bachelor Degree Project mark: 10 (with honors)"
       }
     ],
-    "work":[
+    "work":[      {
+      "company":"Tragsatec",
+      "title":"Analyst programmer",
+      "years":"Feb. 2022 - Act.",
+      "description":"Design, Development and Implementation of computer systems for the e-administration of the ministry of agriculture of JCCM"
+    },
       {
         "company":"University of Castilla-La Mancha",
         "title":"Substitute teacher",
-        "years":"Sep. 2021 - Act.",
+        "years":"Sep. 2021 - Jan. 2022",
         "description":"Substitute teacher in the subject Quality of Software Systems (Calidad de Sistemas Software) of the University Degree in Computer Science (UCLM)"
       },
       {
         "company":"I3A | University of Castilla-La Mancha",
         "title":"Researcher/Research support staff",
-        "years":"Sep. 2021 - Act.",
+        "years":"Sep. 2021 - Jan. 2022",
         "description":"Interactive System Engineering Research Group"
       },
       {
@@ -170,31 +182,22 @@
         "url":"https://github.com/JoseRamonMartinez/alexa-skill-trending-topic"
       },
       {
-        "title":"PictoTrainer",
-        "category":"Web app for children with ASDs - Third place in Hack4Albacity 2020",
-        "image":"pictotrainer.jpg",
-        "url":"https://github.com/JoseRamonMartinez/PictoTrainer"
+        "title":"Paddle Ranking",
+        "category":" Alexa skill to get the paddle ranking or information about the top players in the world. Implemented with AWS services.",
+        "image":"pr.jpg",
+        "url":"https://github.com/JoseRamonMartinez/alexa-skill-paddle-ranking"
       },
-      {
-        "title":"PuerTICas",
-        "category":"Access control application to a smart building using facial recognition authorization. Cloud architecture based on AWS services under the IaaC paradigm",
-        "image":"puerticas.jpg",
-        "url":""
-      },
-
       {
         "title":"LanGuide",
         "category":"European project - Language Guidance Tool for Improving Language Knowledge",
         "image":"languide.jpg",
         "url":"https://languide.si/en/the-languide-app"
       },
-
-
       {
-        "title":"VR DualPoint World Manipulation",
-        "category":"Implement the interaction 'Dual Point World Manipulation' in an Unreal VR application",
-        "image":"dp_vr.jpg",
-        "url":"https://github.com/JoseRamonMartinez/VR_DualPoint_World_Manipulation"
+        "title":"URLCLIP",
+        "category":"URL shorter app. Short your links and urls and make easy to share with the people. ",
+        "image":"url.jpg",
+        "url":"https://github.com/JoseRamonMartinez/urlclip"
       },
       {
         "title":"Forklift simulator",
@@ -203,10 +206,34 @@
         "url":"https://github.com/JoseRamonMartinez/Unity_VR_ForkLift_Simulator"
       },
       {
+        "title":"Web Scraping Padel API AWS",
+        "category":"AWS workflow for web scraping the paddle ranking data and API Rest to consume own services",
+        "image":"wspadel.jpg",
+        "url":"https://github.com/JoseRamonMartinez/api-padel"
+      },
+      {
+        "title":"VR DualPoint World Manipulation",
+        "category":"Implement the interaction 'Dual Point World Manipulation' in an Unreal VR application",
+        "image":"dp_vr.jpg",
+        "url":"https://github.com/JoseRamonMartinez/VR_DualPoint_World_Manipulation"
+      },
+      {
         "title":"Zombie Graveyard",
         "category":"Cardboard game with Unreal VR",
         "image":"zombie.jpg",
         "url":"https://github.com/JoseRamonMartinez/VR_DualPoint_World_Manipulation"
+      },
+      {
+        "title":"PuerTICas",
+        "category":"Access control application to a smart building using facial recognition authorization. Cloud architecture based on AWS services under the IaaC paradigm",
+        "image":"puerticas.jpg",
+        "url":""
+      },
+      {
+        "title":"PictoTrainer",
+        "category":"Web app for children with ASDs - Third place in Hack4Albacity 2020",
+        "image":"pictotrainer.jpg",
+        "url":"https://github.com/JoseRamonMartinez/PictoTrainer"
       }
       
     ]
