@@ -1009,6 +1009,9 @@ footer .social-links li:first-child { margin-left: 0; }
 .social .btn:first-child{
    margin-right: 30px;
 }
+.social .btn:last-child{
+   margin-left: 30px;
+}
 .social .btn{
    padding-left: 30px;
    padding-right: 30px; 
@@ -1016,9 +1019,12 @@ footer .social-links li:first-child { margin-left: 0; }
 .social .btn i{
    margin-right: 15px;
 }
-.project-btn{
+.linkedin-btn{
    background-color: #1abc9c !important;
 }
 .github-btn{
    background-color: #34495e !important;
+}
+.stackoverflow-btn{
+   background-color: #965f2c !important;
 }

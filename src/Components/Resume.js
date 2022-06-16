@@ -27,12 +27,14 @@ class Resume extends Component {
         </div>
       })
 
-      var skills = this.props.data.skills.map((skills)=>{
-        var className = 'bar-expand '+skills.name.toLowerCase();
+      var skills = this.props.data.skills.map(function(skill){
         return (
-          <li key={skills.name}>
-            <span style={{width:skills.level, backgroundColor:this.getRandomColor()}}className={className}></span><em>{skills.name}</em>
-          </li>
+        <div key={skill}>
+          <h5>{skill.category}</h5>
+          {skill.technologies.map(technology => {
+           return <img src={technology} style={{'margin': '3px'}}></img>
+          })}
+        </div> 
         )
       })
     }
@@ -66,17 +68,16 @@ class Resume extends Component {
         </div>
     </div>
 
+    <div className="row work">
 
-      <div className="row skill">
-         <div className="three columns header-col">
-            <h1><span>Skills</span></h1>
-         </div>
-         <div>
-           <h7><b>Languages:</b> Python, JavaScript, TypeScript, Java, C#, C</h7><br/>
-         <h7><b>Technologies: </b>AWS, Serverless, Angular, Ionic, NodeJS, MongoDB, Git, GitHub Actions, Jira, Alexa </h7>
-        </div>
+      <div className="three columns header-col">
+        <h1><span>Skills</span></h1>
       </div>
 
+      <div className="nine columns main-col">
+        {skills}
+      </div>
+    </div>
    </section>
     );
   }
