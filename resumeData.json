@@ -1,11 +1,11 @@
 {
   "main": {
     "name":"José Ramón Martínez Riveiro",
-    "description":"Software Engineer. Bachelor and Master Degree in Computer Science",
+    "description":"Software Engineer. MSc in Computer Science",
     "image":"profilepic.jpg",
-    "bio":"Interested in cloud computing, software architecture and web/mobile development. My goals are to improve my skills through continuous learning, keeping up to date with new technologies and best software development practices.",
+    "bio":"I'm interested in Cloud Computing, Software Architecture and DevOps. I'm very passioante about design patterns, clean clode, TDD and algorithms",
     "contactmessage":"Get in touch",
-    "email": "Josera.Martinez@hotmail.com",
+    "email": "",
     "phone": "Albacete, Spain",
     "github":"https://github.com/JoseRamonMartinez/",
     "linkedin":"https://www.linkedin.com/in/joseramonmartinezriveiro",
@@ -48,33 +48,33 @@
       {
         "school":"PhD in Advanced Information Technology",
         "degree":"University of Castilla-La Mancha",
-        "graduated":"2020 - Act",
+        "graduated":"2021 - Present",
         "description":""
       },
       {
-        "school":"University Master in Computer Science",
+        "school":"Master of Science in Computer Science",
         "degree":"University of Castilla-La Mancha",
         "graduated":"2020 - 2021",
-        "description":"Final Master’s Degree Project mark: 10"
+        "description":"Mark of Final Master Degree Project: 10"
       },
       {
         "school":"University Degree in Computer Science",
         "degree":"University of Castilla-La Mancha",
         "graduated":"2016 - 2020",
-        "description":"English Bilingual. Software Engineering Mention. Final Bachelor Degree Project mark: 10 (with honors)"
+        "description":"Bilingual: English. Software Engineering Mention. Mark of Final University Degree Project: 10 (with honors)"
       }
     ],
     "work":[      {
       "company":"Tragsatec",
       "title":"Analyst programmer",
-      "years":"Feb. 2022 - Act.",
-      "description":"Design, Development and Implementation of computer systems for the e-administration of the ministry of agriculture of JCCM"
+      "years":"Feb. 2022 - Present",
+      "description":"Digitization program of the wine sector for the Ministry of Agriculture (JCCM). System digitization projects, fraud detection and improvement in wine traceability with blockchain."
     },
       {
         "company":"University of Castilla-La Mancha",
         "title":"Substitute teacher",
         "years":"Sep. 2021 - Jan. 2022",
-        "description":"Substitute teacher in the subject Quality of Software Systems (Calidad de Sistemas Software) of the University Degree in Computer Science (UCLM)"
+        "description":"Substitute teacher of the subject Software Systems Quality at the University Degree of Computer Science"
       },
       {
         "company":"I3A | University of Castilla-La Mancha",
@@ -86,74 +86,79 @@
         "company":"I3A | University of Castilla-La Mancha",
         "title":"Research Fellow | Software Engineering",
         "years":"Feb. 2021 - Aug. 2021",
-        "description":"Designed and implemented a content manager web app for the European project LanGuide. Designed and implemented a software system (two hybrid mobile applications and a serverless cloud backend) to improve the quality of life of breast cancer patients."
+        "description":"Designed and implemented a content manager web app for the European project LanGuide. Designed and implemented a software system (two hybrid mobile applications and a serverless cloud backend) to improve the life quality of breast cancer patients."
       },
       {
         "company":"Grupo Vermon SL",
         "title":"Software Engineering Intern",
         "years":"Feb. 2020 - Jun. 2020",
-        "description":"Implemented a web app for monitoring based on domestic sensors. Technologies: Angular 9, Amazon Cognito, Git."
+        "description":"Implemented a monitoring web app based on domestic sensors. Technologies: Angular 9, Amazon Cognito, Git."
       }
 
     ],
     "skills":[
       {
-        "name":"JavaScript",
-        "level":"85%"
+        "category": "Programing Languages",
+        "technologies": [
+          "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white",
+          "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54",
+          "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white",
+          "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E",
+          "https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white",
+          "https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"
+        ]
       },
       {
-        "name":"JavaScript",
-        "level":"70%"
+        "category": "Backend",
+        "technologies": [
+          "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB",
+          "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white",
+          "https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"
+        ]
       },
       {
-        "name":"TypeScript",
-        "level":"65%"
+        "category": "Frontend",
+        "technologies": [
+          "https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white",
+          "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+        ]
       },
-      {
-        "name":"Java",
-        "level":"95%"
-      },
-      {
-      "name":"AWS",
-      "level":"30%"
-    },
-      {
-        "name":"Serverless Framework",
-        "level":"80%"
-      },
-      {
-        "name":"Angular",
-        "level":"70%"
-      },
-      {
-        "name":"Ionic",
-        "level":"65%"
-      },
-      {
-        "name":"NodeJS",
-        "level":"70%"
-      },
-      {
-        "name":"Git",
-        "level":"30%"
-      },
-      {
-        "name":"GitHub Actions",
-        "level":"30%"
-      },
-      {
-        "name":"Jira",
-        "level":"30%"
-      }
-      
 
+      {
+        "category": "Database",
+        "technologies": [
+          "https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white",
+          "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white",
+          "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white",
+          "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"
+        ]
+      },
+      {
+        "category": "Cloud",
+        "technologies": [
+          "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white",
+          "https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
+        ]
+      },
+      {
+        "category": "Others",
+        "technologies": [
+          "https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white",
+          "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white",
+          "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white",
+          "https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white",
+          "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white",
+          "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white",
+          "https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"
+        ]
+      }
     ]
   },
   "portfolio":{
     "projects": [
       {
         "title":"Campollano Prize ",
-        "category":"Award obtained by Campollano Fundation for the most innovate final bachelor degree project",
+        "category":"Award obtained by Campollano Fundation for the most innovate final University degree project",
         "image":"campollano.jpg",
         "url":"https://www.latribunadealbacete.es/Noticia/ZF748FE6E-BD13-233C-E15AEA3AA6956A1E/202111/Premian-a-estudiantes-de-Ingenieria-Informatica"
       },
