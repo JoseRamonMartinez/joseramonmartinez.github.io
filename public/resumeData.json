@@ -157,7 +157,7 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Campollano Prize ",
+        "title":"Campollano Prize",
         "category":"Award obtained by Campollano Fundation for the most innovate final University degree project",
         "image":"campollano.jpg",
         "url":"https://www.latribunadealbacete.es/Noticia/ZF748FE6E-BD13-233C-E15AEA3AA6956A1E/202111/Premian-a-estudiantes-de-Ingenieria-Informatica"
@@ -196,7 +196,7 @@
         "title":"Paddle Ranking",
         "category":" Alexa skill to get the paddle ranking or information about the top players in the world. Implemented with AWS services.",
         "image":"pr.jpg",
-        "url":"https://github.com/JoseRamonMartinez/alexa-skill-paddle-ranking"
+        "url":"https://github.com/JoseRamonMartinez/alexa-skill-ranking-padel"
       },
       {
         "title":"Web Scraping Padel API AWS",
