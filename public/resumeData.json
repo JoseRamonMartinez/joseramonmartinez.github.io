@@ -46,12 +46,6 @@
     "skillmessage":"",
     "education":[
       {
-        "school":"PhD in Advanced Information Technology",
-        "degree":"University of Castilla-La Mancha",
-        "graduated":"2021 - Present",
-        "description":""
-      },
-      {
         "school":"Master of Science in Computer Science",
         "degree":"University of Castilla-La Mancha",
         "graduated":"2020 - 2021",
@@ -61,14 +55,14 @@
         "school":"University Degree in Computer Science",
         "degree":"University of Castilla-La Mancha",
         "graduated":"2016 - 2020",
-        "description":"Bilingual: English. Software Engineering Mention. Mark of Final University Degree Project: 10 (with honors)"
+        "description":"Bilingual: English. Software Engineering Mention. Mark of Final Project: 10 (with honors)"
       }
     ],
     "work":[      {
       "company":"Tragsa | Tragsatec",
-      "title":"Analyst programmer",
+      "title":"Team Lead | Software Engineer",
       "years":"Feb. 2022 - Present",
-      "description":"Digitization program for the Ministry of Agriculture (JCCM). Systems digitalization projects, fraud detection and wine traceability improved by blockchain. Techs: Angular 13, Spring Boot, Oracle SQL, Cucumber, Vagrant, Subversion, CI/CD."
+      "description":"Digitization program for the Ministry of Agriculture (JCCM). Development of Industry food registration system, ETL manager system and shared libraries. Techs: Angular, Spring Boot, Oracle SQL, Cucumber, Vagrant, Subversion, CI/CD."
     },
       {
         "company":"University of Castilla-La Mancha",
@@ -80,19 +74,19 @@
         "company":"I3A | University of Castilla-La Mancha",
         "title":"Researcher/Research support staff",
         "years":"Sep. 2021 - Jan. 2022",
-        "description":"Researched in interactive systems, improving recommendations for breast cancer patients using audio and images. System evaluated by final users."
+        "description":"Research in interactive systems, improving the recommendation system for breast cancer patients using audio and images. System evaluated by end users."
       },
       {
         "company":"I3A | University of Castilla-La Mancha",
-        "title":"Research Fellow | Software Engineering",
+        "title":"Research Fellow | Software Engineer",
         "years":"Feb. 2021 - Aug. 2021",
-        "description":"Designed and implemented a software system (two hybrid app and a backend cloud serverless) to improve the life quality of breast cancer patients. Techs: Ionic, Angular, AWS (API Gateway, Lambda, DynamoDB, Cognito, Amplify), Git, GitHub, GitHub Actions and Serverless Framework. Designed and implemented a content manager web app for the European project LanGuide. Techs: NodeJS, MongoDB, PUG, Git and PM2."
+        "description":"Design, development and implementation of a software system (two hybrid app and a cloud serverless backend) to improve the life quality of breast cancer patients. Techs: Ionic, Angular, AWS (API Gateway, Lambda, DynamoDB, Cognito, Amplify), Git, GitHub, GitHub Actions and Serverless Framework. Development and implementation of a content manager web app for the European project LanGuide. Techs: NodeJS, MongoDB, PUG, Git and PM2."
       },
       {
         "company":"Grupo Vermon SL",
-        "title":"Software Engineering Intern",
+        "title":"Software Developer Intern",
         "years":"Feb. 2020 - Jun. 2020",
-        "description":"Implemented a monitoring web app based on domestic sensors. Techs: Angular 9, Amazon Cognito, Git."
+        "description":"Development of a monitoring web app based on domestic sensors. Techs: Angular 9, Amazon Cognito, Bitbucket and Git."
       }
 
     ],
