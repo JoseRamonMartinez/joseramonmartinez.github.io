@@ -3,7 +3,7 @@
     "name":"José Ramón Martínez Riveiro",
     "description":"Software Engineer. MSc in Computer Science",
     "image":"profilepic.jpg",
-    "bio":"I'm interested in Software Architecture and Cloud Computing. I seek to expand my knowledge of Cloud Computing, dealing with scalability and maintainability problems. As software engineer, i define myself as tidy and methodical, focused on clean code, design patterns and algorithmic.",
+    "bio":"Software Engineer with a strong foundation in Software Architecture and Cloud Computing. My journey began with a curiosity for crafting efficient and scalable solutions. Equipped with a deep understanding of architectural principles, I thrive on designing systems that stand the test of time. My love for Cloud Computing drives me to harness its power to deliver resilient and adaptable applications. A lifelong learner, I constantly explore emerging technologies to stay ahead in this ever-evolving field. Let's connect and discuss how I can contribute to innovative and robust software solutions.",
     "contactmessage":"Get in touch",
     "email": "",
     "phone": "Albacete, Spain",
@@ -49,20 +49,20 @@
         "school":"Master of Science in Computer Science",
         "degree":"University of Castilla-La Mancha",
         "graduated":"2020 - 2021",
-        "description":"Mark of Final Master Degree Project: 10"
+        "description":"Mark on Master Final Project: 10"
       },
       {
         "school":"University Degree in Computer Science",
         "degree":"University of Castilla-La Mancha",
         "graduated":"2016 - 2020",
-        "description":"Bilingual: English. Software Engineering Mention. Mark of Final Project: 10 (with honors)"
+        "description":"Bilingual: English. Software Engineering Mention. Mark on Degree Final Project: 10 (with honors)"
       }
     ],
     "work":[      {
       "company":"Tragsa | Tragsatec",
-      "title":"Team Lead | Software Engineer",
+      "title":"Software Engineer",
       "years":"Feb. 2022 - Present",
-      "description":"Digitization program for the Ministry of Agriculture (JCCM). Development of Industry food registration system, ETL manager system and shared libraries. Techs: Angular, Spring Boot, Oracle SQL, Cucumber, Vagrant, Subversion, CI/CD."
+      "description":"Digitization program for the Ministry of Agriculture (JCCM). Development of Industry food registration system, ETL manager system, authentication system and shared libraries. Techs: Angular, Spring Boot, Oracle SQL, Test, Docker, Subversion, Jenkins (CI/CD)."
     },
       {
         "company":"University of Castilla-La Mancha",
@@ -95,11 +95,10 @@
         "category": "Programing Languages",
         "technologies": [
           "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white",
-          "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54",
           "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white",
+          "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54",
           "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E",
-          "https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white",
-          "https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"
+          "https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
         ]
       },
       {
@@ -144,6 +143,14 @@
           "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white",
           "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white",
           "https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"
+        ]
+      },
+      {
+        "category": "Languages",
+        "technologies": [
+          "https://img.shields.io/badge/SPANISH-%23D90007.svg?style=for-the-badge&label=NATIVE&logoColor=white",
+          "https://img.shields.io/badge/ENGLISH-005AF0.svg?style=for-the-badge&label=B2 FIRST&logoColor=white",
+          "https://img.shields.io/badge/ITALIAN-168363.svg?style=for-the-badge&label=BASIC&logoColor=white"
         ]
       }
     ]
