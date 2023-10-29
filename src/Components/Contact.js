@@ -6,12 +6,7 @@ class Contact extends Component {
     if(this.props.data){
       var name = this.props.data.name;
       var street = this.props.data.address.street;
-      var city = this.props.data.address.city;
-      var state = this.props.data.address.state;
-      var zip = this.props.data.address.zip;
       var phone= this.props.data.phone;
-      var email = this.props.data.email;
-      var message = this.props.data.contactmessage;
     }
 
     return (
@@ -37,14 +32,7 @@ class Contact extends Component {
 					   </p>
 				   </div>
 
-               <div className="widget widget_tweets">
-                  <h4 className="widget-title"></h4>
-                  <ul id="twitter">
-                     <li>
-                       
-                     </li>
-                  </ul>
-		         </div>
+
             </aside>
 
          </div>

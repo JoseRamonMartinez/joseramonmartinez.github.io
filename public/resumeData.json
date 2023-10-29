@@ -44,6 +44,45 @@
   },
   "resume":{
     "skillmessage":"",
+    "work":[
+      {
+      "company":"Grupo Tragsa | Tragsatec",
+      "title":"Software Engineer II",
+      "years":"Feb. 2023 - Present",
+      "description":"• Development of the Agriculture Department Authentication System. • Development of an ETL manager based on kettle and task programming. • Shared libraries for company environment.  • Workshops and support to teams about domain-driven design (DDD), hexagonal architectures and good software development practices."
+      },
+      {
+        "company":"",
+        "title":"Software Engineer I",
+        "years":"Feb. 2022 - Feb. 2023",
+        "description":"• Development of the industry food registration system and shared libraries • Implementation of a development workflow guided by branch-based development, domain-driven development (DDD) and behavior-driven development (BDD). Techs: Spring Boot, Angular, OracleSQL, Testing, Docker, VCS, Jenkins (CI/CD) and OpenShift."
+        },
+      {
+        "company":"I3A | University of Castilla-La Mancha",
+        "title":"Substitute professor",
+        "years":"Sep. 2021 - Jan. 2022",
+        "description":"• Substitute professor for the subject Software Systems Quality at the University Degree of Computer Science."
+      },
+      {
+        "company":"",
+        "title":"Researcher/Research support staff",
+        "years":"Sep. 2021 - Jan. 2022",
+        "description":"• Research in interactive systems, improving the recommendation system for breast cancer patients using audio and images. System evaluated by end users. • Article: https://doi.org/10.1177/15691861231206489"
+      },
+      {
+        "company":"",
+        "title":"Research Fellow | Software Engineer",
+        "years":"Feb. 2021 - Aug. 2021",
+        "description":"• Design, development and implementation of a software system (two hybrid app and a cloud serverless backend) to improve the life quality of breast cancer patients. Techs: Ionic, Angular, AWS (API Gateway, Lambda, DynamoDB, Cognito, Amplify), Git, GitHub, GitHub Actions and Serverless Framework. • Development and implementation of a content manager web app for the European project LanGuide. Techs: NodeJS, MongoDB, PUG, Git and PM2."
+      },
+      {
+        "company":"Grupo Vermon SL",
+        "title":"Software Developer Intern",
+        "years":"Feb. 2020 - Jun. 2020",
+        "description":"• Development of a monitoring web app based on domestic sensors. Techs: Angular 9, Amazon Cognito, Bitbucket and Git."
+      }
+
+    ],
     "education":[
       {
         "school":"Master of Science in Computer Science",
@@ -57,38 +96,6 @@
         "graduated":"2016 - 2020",
         "description":"Bilingual: English. Software Engineering Mention. Mark on Degree Final Project: 10 (with honors)"
       }
-    ],
-    "work":[      {
-      "company":"Tragsa | Tragsatec",
-      "title":"Software Engineer",
-      "years":"Feb. 2022 - Present",
-      "description":"Digitization program for the Ministry of Agriculture (JCCM). Development of Industry food registration system, ETL manager system, authentication system and shared libraries. Techs: Angular, Spring Boot, Oracle SQL, Test, Docker, Subversion, Jenkins (CI/CD)."
-    },
-      {
-        "company":"University of Castilla-La Mancha",
-        "title":"Substitute teacher",
-        "years":"Sep. 2021 - Jan. 2022",
-        "description":"Substitute professor for the subject Software Systems Quality at the University Degree of Computer Science."
-      },
-      {
-        "company":"I3A | University of Castilla-La Mancha",
-        "title":"Researcher/Research support staff",
-        "years":"Sep. 2021 - Jan. 2022",
-        "description":"Research in interactive systems, improving the recommendation system for breast cancer patients using audio and images. System evaluated by end users."
-      },
-      {
-        "company":"I3A | University of Castilla-La Mancha",
-        "title":"Research Fellow | Software Engineer",
-        "years":"Feb. 2021 - Aug. 2021",
-        "description":"Design, development and implementation of a software system (two hybrid app and a cloud serverless backend) to improve the life quality of breast cancer patients. Techs: Ionic, Angular, AWS (API Gateway, Lambda, DynamoDB, Cognito, Amplify), Git, GitHub, GitHub Actions and Serverless Framework. Development and implementation of a content manager web app for the European project LanGuide. Techs: NodeJS, MongoDB, PUG, Git and PM2."
-      },
-      {
-        "company":"Grupo Vermon SL",
-        "title":"Software Developer Intern",
-        "years":"Feb. 2020 - Jun. 2020",
-        "description":"Development of a monitoring web app based on domestic sensors. Techs: Angular 9, Amazon Cognito, Bitbucket and Git."
-      }
-
     ],
     "skills":[
       {
@@ -240,6 +247,12 @@
         "category":"Web app for children with ASDs - Third place in Hack4Albacity 2020",
         "image":"pictotrainer.jpg",
         "url":"https://github.com/JoseRamonMartinez/PictoTrainer"
+      },
+      {
+        "title":"B2 First",
+        "category":"B2 First Certification by Cambridge University Press & Assessment. Expedition: jul. 2023. ID: C2683362ID",
+        "image":"cambridge.jpg",
+        "url":""
       },
       {
         "title":"Tech talks University of Castilla-La Mancha",
