@@ -32,6 +32,14 @@
 	    });
 	});
 
+$('.smoothscroll').hover(
+   function () {
+       $(this).css('color', '#ff6600'); // Change text color to your desired color
+   },
+   function () {
+       $(this).css('color', ''); // Reset the text color
+   }
+);
 
 /*----------------------------------------------------*/
 /* Highlight the current section in the navigation bar

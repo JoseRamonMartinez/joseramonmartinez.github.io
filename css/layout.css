@@ -1022,9 +1022,19 @@ footer .social-links li:first-child { margin-left: 0; }
 .linkedin-btn{
    background-color: #1abc9c !important;
 }
+.linkedin-btn:hover {
+   background-color: #16a085 !important;
+}
+
 .github-btn{
    background-color: #34495e !important;
 }
+.github-btn:hover{
+   background-color: #2c3e50 !important;
+}
 .stackoverflow-btn{
    background-color: #965f2c !important;
+}
+.stackoverflow-btn:hover{
+   background-color: #7e4a1e !important;
 }
