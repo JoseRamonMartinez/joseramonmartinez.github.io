@@ -2,8 +2,8 @@
   "main": {
     "name":"José Ramón Martínez Riveiro",
     "description":"Software Engineer. MSc in Computer Science",
-    "image":"JoseRamonMartinez.jpg",
-    "bio":"+3 years of experience as Software Engineering. I have been fascinated by technology since I was a child, shocked by it's impact in our lives. I enjoy engaging with the software comunity and dream about the future of the industry.",
+    "image":"JoseRamonMartinez.webp",
+    "bio":"I'm José, a software engineer with over 4 years of professional experience. I started programming when YouTube had just launched. I hold both a Bachelor's and a Master's degree in Computer Science. I've been professor of the subject Software Systems Quality, researcher at UCLM and speaker at several technical talks. Currently, I work on improving the performance and usability of public systems.",
     "contactmessage":"Get in touch",
     "email": "",
     "phone": "Albacete, Spain",
@@ -170,97 +170,97 @@
       {
         "title":"Campollano Prize",
         "category":"Award obtained by Campollano Fundation for the most innovate final University degree project",
-        "image":"campollano.jpg",
+        "image":"campollano.webp",
         "url":"https://www.latribunadealbacete.es/Noticia/ZF748FE6E-BD13-233C-E15AEA3AA6956A1E/202111/Premian-a-estudiantes-de-Ingenieria-Informatica"
       },
       {
         "title":"3rd Prize in HackForAlbacity 2020",
         "category":"Award obtained for the development of technological solutions for people with functional diversity in collaboration with CRMF-IMSERSO.",
-        "image":"h4a.jpg",
+        "image":"h4a.webp",
         "url":"https://pctclm.com/entrega-de-premios-de-la-tercera-edicion-del-concurso-hack-for-albacity/"
       },
       {
         "title":"Profesional Scrum Master I",
         "category":"Certificate of profesional Scrum Master I (PSM I) by Scrum.org",
-        "image":"psm1.jpg",
+        "image":"psm1.webp",
         "url":"https://www.scrum.org/user/749210"
       },
       {
         "title":"MAIA (Private)",
         "category":"Web/Mobiles applications that conforms a system focused into improve the life of breast cancer patients",
-        "image":"maia.jpg",
+        "image":"maia.webp",
         "url":"https://github.com/JoseRamonMartinez/MAIA"
       },
       {
         "title":"PuerTICas",
         "category":"Access control application for smart building using facial recognition authorization. Cloud architecture based on AWS services under the IaaC paradigm",
-        "image":"puerticas.jpg",
+        "image":"puerticas.webp",
         "url":"https://github.com/NiceUCs/puerTICas"
       },
       {
         "title":"Trending Topic",
         "category":"Alexa skill to consult the twitter trending topic for any country and the popular tweets about a topic.",
-        "image":"tt.jpg",
+        "image":"tt.webp",
         "url":"https://github.com/JoseRamonMartinez/alexa-skill-trending-topic"
       },
       {
         "title":"Paddle Ranking",
         "category":" Alexa skill to get the paddle ranking or information about the top players in the world. Implemented with AWS services.",
-        "image":"pr.jpg",
+        "image":"pr.webp",
         "url":"https://github.com/JoseRamonMartinez/alexa-skill-ranking-padel"
       },
       {
         "title":"Web Scraping Padel API AWS",
         "category":"AWS workflow for web scraping the paddle ranking data and API Rest to consume own services",
-        "image":"wspadel.jpg",
+        "image":"wspadel.webp",
         "url":"https://github.com/JoseRamonMartinez/api-padel"
       },
       {
         "title":"Forklift simulator",
         "category":"Unity VR Forklift Simulator",
-        "image":"forklift.jpg",
+        "image":"forklift.webp",
         "url":"https://github.com/JoseRamonMartinez/Unity_VR_ForkLift_Simulator"
       },
       {
         "title":"URLCLIP",
         "category":"URL shorter app. Short your links and urls and make easy to share with the people. ",
-        "image":"url.jpg",
+        "image":"url.webp",
         "url":"https://github.com/JoseRamonMartinez/urlclip"
       },
       {
         "title":"LanGuide",
         "category":"European project - Language Guidance Tool for Improving Language Knowledge",
-        "image":"languide.jpg",
+        "image":"languide.webp",
         "url":"https://languide.si/en/the-languide-app"
       },
       {
         "title":"Zombie Graveyard",
         "category":"Cardboard game with Unreal VR",
-        "image":"zombie.jpg",
+        "image":"zombie.webp",
         "url":"https://github.com/JoseRamonMartinez/VR_DualPoint_World_Manipulation"
       },
       {
         "title":"VR DualPoint World Manipulation",
         "category":"Implement the interaction 'Dual Point World Manipulation' in an Unreal VR application",
-        "image":"dp_vr.jpg",
+        "image":"dp_vr.webp",
         "url":"https://github.com/JoseRamonMartinez/VR_DualPoint_World_Manipulation"
       },
       {
         "title":"PictoTrainer",
         "category":"Web app for children with ASDs - Third place in Hack4Albacity 2020",
-        "image":"pictotrainer.jpg",
+        "image":"pictotrainer.webp",
         "url":"https://github.com/JoseRamonMartinez/PictoTrainer"
       },
       {
         "title":"B2 First",
         "category":"B2 First Certification by Cambridge University Press & Assessment. Expedition: jul. 2023. ID: C2683362ID",
-        "image":"cambridge.jpg",
+        "image":"cambridge.webp",
         "url":""
       },
       {
         "title":"Tech talks University of Castilla-La Mancha",
         "category":"Topics about AWS Serverless Apps using IaC, Alexa Skills and SOLID principles",
-        "image":"techtalks.jpg",
+        "image":"techtalks.webp",
         "url":"https://eventos.uclm.es/90539"
       }
     ]
