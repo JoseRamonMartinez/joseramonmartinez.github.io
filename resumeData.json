@@ -1,107 +1,105 @@
 {
   "main": {
-    "name":"José Ramón Martínez Riveiro",
-    "description":"Software Engineer. MSc in Computer Science",
-    "image":"JoseRamonMartinez.webp",
-    "bio":"I'm José, a software engineer with over 4 years of professional experience. I started programming when YouTube had just launched. I hold both a Bachelor's and a Master's degree in Computer Science. I've been professor of the subject Software Systems Quality, researcher at UCLM and speaker at several technical talks. Currently, I work on improving the performance and usability of public systems.",
-    "contactmessage":"Get in touch",
+    "name": "José Ramón Martínez Riveiro",
+    "description": "Software Engineer. MSc in Computer Science",
+    "image": "JoseRamonMartinez.webp",
+    "bio": "I'm José, a software engineer with 4+ years of professional experience and a strong academic background, holding both a Bachelor's and a Master's degree in Computer Science. I've taught Software Systems Quality as a professor, conducted research at UCLM, and spoken at several technical conferences. Currently, I focus on enhancing the performance and usability of public sector systems.",
+    "contactmessage": "Get in touch",
     "email": "",
     "phone": "Albacete, Spain",
-    "github":"https://github.com/JoseRamonMartinez/",
-    "linkedin":"https://www.linkedin.com/in/joseramonmartinezriveiro",
-    "stackoverflow":"https://stackoverflow.com/users/14985536/jose-ramon-martinez-riveiro",
-    "address":{
-      "street":"josera.martinez@hotmail.com",
-      "city":"",
-      "state":"",
+    "github": "https://github.com/JoseRamonMartinez/",
+    "linkedin": "https://www.linkedin.com/in/joseramonmartinezriveiro",
+    "stackoverflow": "https://stackoverflow.com/users/14985536/jose-ramon-martinez-riveiro",
+    "address": {
+      "street": "josera.martinez@hotmail.com",
+      "city": "",
+      "state": "",
       "zip": ""
     },
     "website": "",
-    "resumedownload":"",
-    "social":[
+    "resumedownload": "",
+    "social": [
       {
-        "name":"",
-        "url":"",
-        "className":""
+        "name": "",
+        "url": "",
+        "className": ""
       },
       {
-        "name":"github",
-        "url":"https://github.com/JoseRamonMartinez",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/JoseRamonMartinez",
+        "className": "fa fa-github"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/joseramonmartinezriveiro",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/joseramonmartinezriveiro",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"stackoverflow",
-        "url":"https://stackoverflow.com/users/14985536/jose-ramon-martinez-riveiro",
-        "className":"fa fa-stack-overflow"
+        "name": "stackoverflow",
+        "url": "https://stackoverflow.com/users/14985536/jose-ramon-martinez-riveiro",
+        "className": "fa fa-stack-overflow"
       }
-     
     ]
   },
-  "resume":{
-    "skillmessage":"",
-    "work":[
+  "resume": {
+    "skillmessage": "",
+    "work": [
       {
-      "company":"Grupo Tragsa | Tragsatec",
-      "title":"Software Engineer II",
-      "years":"Feb. 2023 - Present",
-      "description":"• Centralized authentication system for the Ministry of Agriculture of JCCM, based on OAuth 2.0, audited annually, integrated into over 60 applications, and used by more than 20,000 monthly unique users. • System for managing scheduled ETLs, supporting over 30 simultaneous executions. • Coordination of development, deployment, and production launch of four products."
+        "company": "Grupo Tragsa | Tragsatec",
+        "title": "Software Engineer II",
+        "years": "Feb. 2023 - Present",
+        "description": "• Centralized authentication system for the Ministry of Agriculture of JCCM, based on OAuth 2.0, audited annually, integrated into over 60 applications, and used by more than 20,000 monthly unique users. • System for managing scheduled ETLs, supporting over 30 simultaneous executions. • Coordination of development, deployment, and production launch of four products."
       },
       {
-        "company":"",
-        "title":"Software Engineer I",
-        "years":"Feb. 2022 - Feb. 2023",
-        "description":" • Architectural design for new projects based on Hexagonal principles and Domain-Driven Design (DDD). • Onboarding and mentoring process for new employees. • Report generator for aid and subsidy applications in the Agriculture sector. • Product for the management of agri-food industries."
-        },
-      {
-        "company":"I3A | University of Castilla-La Mancha",
-        "title":"Substitute professor",
-        "years":"Sep. 2021 - Jan. 2022",
-        "description":"• Substitute professor for Software Systems Quality in the University Degree of Computer Science at University of Castilla-La Mancha."
+        "company": "",
+        "title": "Software Engineer I",
+        "years": "Feb. 2022 - Feb. 2023",
+        "description": " • Architectural design for new projects based on Hexagonal principles and Domain-Driven Design (DDD). • Onboarding and mentoring process for new employees. • Report generator for aid and subsidy applications in the Agriculture sector. • Product for the management of agri-food industries."
       },
       {
-        "company":"",
-        "title":"Researcher/Research support staff",
-        "years":"Sep. 2021 - Jan. 2022",
-        "description":"• Research in interactive systems, enhancing the recommendation system for breast cancer patients using audio and images • Article: https://doi.org/10.1177/15691861231206489."
+        "company": "I3A | University of Castilla-La Mancha",
+        "title": "Substitute professor",
+        "years": "Sep. 2021 - Jan. 2022",
+        "description": "• Substitute professor for Software Systems Quality in the University Degree of Computer Science at University of Castilla-La Mancha."
       },
       {
-        "company":"",
-        "title":"Research Fellow | Software Engineer",
-        "years":"Feb. 2021 - Aug. 2021",
-        "description":" • System to improve the quality of life for breast cancer patients. • Content management system for educational materials within the context of the European project LanGuide."
+        "company": "",
+        "title": "Researcher/Research support staff",
+        "years": "Sep. 2021 - Jan. 2022",
+        "description": "• Research in interactive systems, enhancing the recommendation system for breast cancer patients using audio and images • Article: https://doi.org/10.1177/15691861231206489."
       },
       {
-        "company":"Grupo Vermon SL",
-        "title":"Software Developer Intern",
-        "years":"Feb. 2020 - Jun. 2020",
-        "description":" • Developed a web-based monitoring app using domestic sensors."
-      }
-
-    ],
-    "education":[
-      {
-        "school":"Master of Science in Computer Science",
-        "degree":"University of Castilla-La Mancha",
-        "graduated":"2020 - 2021",
-        "description":"Mark on Master Final Project: 10"
+        "company": "",
+        "title": "Research Fellow | Software Engineer",
+        "years": "Feb. 2021 - Aug. 2021",
+        "description": " • System to improve the quality of life for breast cancer patients. • Content management system for educational materials within the context of the European project LanGuide."
       },
       {
-        "school":"University Degree in Computer Science",
-        "degree":"University of Castilla-La Mancha",
-        "graduated":"2016 - 2020",
-        "description":"Bilingual: English. Software Engineering Mention. Mark on Degree Final Project: 10 (with honors)"
+        "company": "Grupo Vermon SL",
+        "title": "Software Developer Intern",
+        "years": "Feb. 2020 - Jun. 2020",
+        "description": " • Developed a web-based monitoring app using domestic sensors."
       }
     ],
-    "skills":[
+    "education": [
+      {
+        "school": "Master of Science in Computer Science",
+        "degree": "University of Castilla-La Mancha",
+        "graduated": "2020 - 2021",
+        "description": "Mark on Master Final Project: 10"
+      },
+      {
+        "school": "University Degree in Computer Science",
+        "degree": "University of Castilla-La Mancha",
+        "graduated": "2016 - 2020",
+        "description": "Bilingual: English. Software Engineering Mention. Mark on Degree Final Project: 10 (with honors)"
+      }
+    ],
+    "skills": [
       {
         "category": "Programing Languages",
         "technologies": [
-          "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white",
+          "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white",
           "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white",
           "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E",
           "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
@@ -153,7 +151,6 @@
           "https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white",
           "https://img.shields.io/badge/Kibana-%23FF0970.svg?style=for-the-badge&logo=nada&logoColor=white",
           "https://img.shields.io/badge/Openshift-000?style=for-the-badge&logo=redhat&logoColor=red"
-
         ]
       },
       {
@@ -166,103 +163,109 @@
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Campollano Prize",
-        "category":"Award obtained by Campollano Fundation for the most innovate final University degree project",
-        "image":"campollano.webp",
-        "url":"https://www.latribunadealbacete.es/Noticia/ZF748FE6E-BD13-233C-E15AEA3AA6956A1E/202111/Premian-a-estudiantes-de-Ingenieria-Informatica"
+        "title": "Campollano Prize",
+        "category": "Award obtained by Campollano Fundation for the most innovate final University degree project",
+        "image": "campollano.webp",
+        "url": "https://www.latribunadealbacete.es/Noticia/ZF748FE6E-BD13-233C-E15AEA3AA6956A1E/202111/Premian-a-estudiantes-de-Ingenieria-Informatica"
       },
       {
-        "title":"3rd Prize in HackForAlbacity 2020",
-        "category":"Award obtained for the development of technological solutions for people with functional diversity in collaboration with CRMF-IMSERSO.",
-        "image":"h4a.webp",
-        "url":"https://pctclm.com/entrega-de-premios-de-la-tercera-edicion-del-concurso-hack-for-albacity/"
+        "title": "3rd Prize in HackForAlbacity 2020",
+        "category": "Award obtained for the development of technological solutions for people with functional diversity in collaboration with CRMF-IMSERSO.",
+        "image": "h4a.webp",
+        "url": "https://pctclm.com/entrega-de-premios-de-la-tercera-edicion-del-concurso-hack-for-albacity/"
       },
       {
-        "title":"Profesional Scrum Master I",
-        "category":"Certificate of profesional Scrum Master I (PSM I) by Scrum.org",
-        "image":"psm1.webp",
-        "url":"https://www.scrum.org/user/749210"
+        "title": "Hipoteca Radar",
+        "category": " Tracks current mortgage offers in Spain, helping users negotiate better TIN rates. It also provides calculators, guides to understand mortgage terms, and a news section.",
+        "image": "hipotecaradar.webp",
+        "url": "https://hipoteca-radar.com"
       },
       {
-        "title":"MAIA (Private)",
-        "category":"Web/Mobiles applications that conforms a system focused into improve the life of breast cancer patients",
-        "image":"maia.webp",
-        "url":"https://github.com/JoseRamonMartinez/MAIA"
+        "title": "SHORTENER",
+        "category": "URL shorter app. Short your links and urls and make easy to share with the people. ",
+        "image": "shortener.webp",
+        "url": "https://github.com/JoseRamonMartinez/shortener"
       },
       {
-        "title":"PuerTICas",
-        "category":"Access control application for smart building using facial recognition authorization. Cloud architecture based on AWS services under the IaaC paradigm",
-        "image":"puerticas.webp",
-        "url":"https://github.com/NiceUCs/puerTICas"
+        "title": "Tech talks University of Castilla-La Mancha",
+        "category": "Topics about AWS Serverless Apps using IaC, Alexa Skills and SOLID principles",
+        "image": "techtalks.webp",
+        "url": "https://eventos.uclm.es/90539"
       },
       {
-        "title":"Trending Topic",
-        "category":"Alexa skill to consult the twitter trending topic for any country and the popular tweets about a topic.",
-        "image":"tt.webp",
-        "url":"https://github.com/JoseRamonMartinez/alexa-skill-trending-topic"
+        "title": "LanGuide",
+        "category": "European project - Language Guidance Tool for Improving Language Knowledge",
+        "image": "languide.webp",
+        "url": "https://languide.si/en/the-languide-app"
       },
       {
-        "title":"Paddle Ranking",
-        "category":" Alexa skill to get the paddle ranking or information about the top players in the world. Implemented with AWS services.",
-        "image":"pr.webp",
-        "url":"https://github.com/JoseRamonMartinez/alexa-skill-ranking-padel"
+        "title": "Profesional Scrum Master I",
+        "category": "Certificate of profesional Scrum Master I (PSM I) by Scrum.org",
+        "image": "psm1.webp",
+        "url": "https://www.scrum.org/user/749210"
       },
       {
-        "title":"Web Scraping Padel API AWS",
-        "category":"AWS workflow for web scraping the paddle ranking data and API Rest to consume own services",
-        "image":"wspadel.webp",
-        "url":"https://github.com/JoseRamonMartinez/api-padel"
+        "title": "MAIA (Private)",
+        "category": "Web/Mobiles applications that conforms a system focused into improve the life of breast cancer patients",
+        "image": "maia.webp",
+        "url": "https://github.com/JoseRamonMartinez/MAIA"
       },
       {
-        "title":"Forklift simulator",
-        "category":"Unity VR Forklift Simulator",
-        "image":"forklift.webp",
-        "url":"https://github.com/JoseRamonMartinez/Unity_VR_ForkLift_Simulator"
+        "title": "PuerTICas",
+        "category": "Access control application for smart building using facial recognition authorization. Cloud architecture based on AWS services under the IaaC paradigm",
+        "image": "puerticas.webp",
+        "url": "https://github.com/NiceUCs/puerTICas"
       },
       {
-        "title":"SHORTENER",
-        "category":"URL shorter app. Short your links and urls and make easy to share with the people. ",
-        "image":"shortener.webp",
-        "url":"https://github.com/JoseRamonMartinez/shortener"
+        "title": "Trending Topic",
+        "category": "Alexa skill to consult the twitter trending topic for any country and the popular tweets about a topic.",
+        "image": "tt.webp",
+        "url": "https://github.com/JoseRamonMartinez/alexa-skill-trending-topic"
       },
       {
-        "title":"LanGuide",
-        "category":"European project - Language Guidance Tool for Improving Language Knowledge",
-        "image":"languide.webp",
-        "url":"https://languide.si/en/the-languide-app"
+        "title": "Paddle Ranking",
+        "category": " Alexa skill to get the paddle ranking or information about the top players in the world. Implemented with AWS services.",
+        "image": "pr.webp",
+        "url": "https://github.com/JoseRamonMartinez/alexa-skill-ranking-padel"
       },
       {
-        "title":"Zombie Graveyard",
-        "category":"Cardboard game with Unreal VR",
-        "image":"zombie.webp",
-        "url":"https://github.com/JoseRamonMartinez/VR_DualPoint_World_Manipulation"
+        "title": "Web Scraping Padel API AWS",
+        "category": "AWS workflow for web scraping the paddle ranking data and API Rest to consume own services",
+        "image": "wspadel.webp",
+        "url": "https://github.com/JoseRamonMartinez/api-padel"
       },
       {
-        "title":"VR DualPoint World Manipulation",
-        "category":"Implement the interaction 'Dual Point World Manipulation' in an Unreal VR application",
-        "image":"dp_vr.webp",
-        "url":"https://github.com/JoseRamonMartinez/VR_DualPoint_World_Manipulation"
+        "title": "Forklift simulator",
+        "category": "Unity VR Forklift Simulator",
+        "image": "forklift.webp",
+        "url": "https://github.com/JoseRamonMartinez/Unity_VR_ForkLift_Simulator"
       },
       {
-        "title":"PictoTrainer",
-        "category":"Web app for children with ASDs - Third place in Hack4Albacity 2020",
-        "image":"pictotrainer.webp",
-        "url":"https://github.com/JoseRamonMartinez/PictoTrainer"
+        "title": "Zombie Graveyard",
+        "category": "Cardboard game with Unreal VR",
+        "image": "zombie.webp",
+        "url": "https://github.com/JoseRamonMartinez/VR_DualPoint_World_Manipulation"
       },
       {
-        "title":"B2 First",
-        "category":"B2 First Certification by Cambridge University Press & Assessment. Expedition: jul. 2023. ID: C2683362ID",
-        "image":"cambridge.webp",
-        "url":""
+        "title": "VR DualPoint World Manipulation",
+        "category": "Implement the interaction 'Dual Point World Manipulation' in an Unreal VR application",
+        "image": "dp_vr.webp",
+        "url": "https://github.com/JoseRamonMartinez/VR_DualPoint_World_Manipulation"
       },
       {
-        "title":"Tech talks University of Castilla-La Mancha",
-        "category":"Topics about AWS Serverless Apps using IaC, Alexa Skills and SOLID principles",
-        "image":"techtalks.webp",
-        "url":"https://eventos.uclm.es/90539"
+        "title": "PictoTrainer",
+        "category": "Web app for children with ASDs - Third place in Hack4Albacity 2020",
+        "image": "pictotrainer.webp",
+        "url": "https://github.com/JoseRamonMartinez/PictoTrainer"
+      },
+      {
+        "title": "B2 First",
+        "category": "B2 First Certification by Cambridge University Press & Assessment. Expedition: jul. 2023. ID: C2683362ID",
+        "image": "cambridge.webp",
+        "url": ""
       }
     ]
   }
