@@ -48,7 +48,7 @@
         "company": "Grupo Tragsa | Tragsatec",
         "title": "Software Engineer II",
         "years": "Feb. 2023 - Present",
-        "description": "• Centralized authentication system for the Ministry of Agriculture of JCCM, based on OAuth 2.0, audited annually, integrated into over 60 applications, and used by more than 20,000 monthly unique users. • System for managing scheduled ETLs, supporting over 30 simultaneous executions. • Coordination of development, deployment, and production launch of four products."
+        "description": "• Centralized authentication system for the Ministry of Agriculture of JCCM, based on OAuth 2.0, audited annually, integrated into over 60 applications, and used by more than 20,000 monthly unique users. • System for managing ETLs, with +70 daily scheduled executions. • Coordination of development, deployment, and production launch of four products."
       },
       {
         "company": "",
