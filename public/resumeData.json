@@ -3,7 +3,7 @@
     "name": "José Ramón Martínez Riveiro",
     "description": "Software Engineer. MSc in Computer Science",
     "image": "JoseRamonMartinez.webp",
-    "bio": "I'm José, a software engineer with 4+ years of professional experience and a strong academic background, holding both a Bachelor's and a Master's degree in Computer Science. I've taught Software Systems Quality as a professor, conducted research at UCLM, and spoken at several technical conferences. Currently, I focus on enhancing the performance and usability of public sector systems.",
+    "bio": "m José, a software engineer with 4+ years of professional experience and a strong academic background, holding both a Bachelor's and a Master's degree in Computer Science. I've taught Software Systems Quality as a professor, conducted research at UCLM, and spoken at several technical conferences. Currently, I lead the Infrastructure and e-Government team, actively contributing to system development and architectural decisions.",
     "contactmessage": "Get in touch",
     "email": "",
     "phone": "Albacete, Spain",
@@ -48,13 +48,13 @@
         "company": "Grupo Tragsa | Tragsatec",
         "title": "Software Engineer II",
         "years": "Feb. 2023 - Present",
-        "description": "• Centralized authentication system for the Ministry of Agriculture of JCCM, based on OAuth 2.0, audited annually, integrated into over 60 applications, and used by more than 20,000 monthly unique users. • System for managing ETLs, with +70 daily scheduled executions. • Coordination of development, deployment, and production launch of four products."
+        "description": " • Lead the Infrastructure and Electronic Administration team, focused on developing and consolidating common and cross-functional services. • Manage and evolve the centralized authentication system for the Ministry of Agriculture of JCCM (OAuth 2.0), with annual audits, integration in >60 applications, and usage by >20,000 unique monthly users. • Implement and oversee ETL management systems, with over 70 scheduled daily executions, optimizing data flows and traceability. • Technical direction and production deployment of new procedures, ensuring evolution of the technology framework and compliance with electronic administration regulations."
       },
       {
         "company": "",
         "title": "Software Engineer I",
         "years": "Feb. 2022 - Feb. 2023",
-        "description": " • Architectural design for new projects based on Hexagonal principles and Domain-Driven Design (DDD). • Onboarding and mentoring process for new employees. • Report generator for aid and subsidy applications in the Agriculture sector. • Product for the management of agri-food industries."
+        "description": " • Design and implementation of layered architectures, applying SOLID principles. • Development of the management system for Agri-Food Industries and technical report generator for processing aid and subsidy applications. • Design of onboarding process, facilitating integration of new personnel and ensuring compliance with development standards."
       },
       {
         "company": "I3A | University of Castilla-La Mancha",
